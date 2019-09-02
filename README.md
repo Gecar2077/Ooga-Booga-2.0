@@ -29,7 +29,11 @@ I might have to learn a little c#
 Week:
 
 1.Create your first Unity project
+
 2.Beginner Walkthroughs
+
 3.Welcome to the Creative Mods
+
 4.New user Micro-Game Karting 
+
 5.New User Micro Game Platformer
